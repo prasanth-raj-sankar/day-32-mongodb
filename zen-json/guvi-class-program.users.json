@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "66c59468cc3334304e024fef"
+  },
+  "name": "Sam",
+  "email": "sam@example.com",
+  "course": "MERN Stack",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "Sanjay",
+    "email": "sanjay@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff0"
+  },
+  "name": "Emily",
+  "email": "emily@example.com",
+  "course": "Full Stack Development",
+  "batch": "FSD34XY-Z",
+  "mentor": {
+    "name": "Anita",
+    "email": "anita@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff1"
+  },
+  "name": "John",
+  "email": "john@example.com",
+  "course": "Data Science",
+  "batch": "DS78AB-P",
+  "mentor": {
+    "name": "Raj",
+    "email": "raj@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff2"
+  },
+  "name": "Alice",
+  "email": "alice@example.com",
+  "course": "Cloud Computing",
+  "batch": "CC21GH-Q",
+  "mentor": {
+    "name": "Neha",
+    "email": "neha@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff3"
+  },
+  "name": "Michael",
+  "email": "michael@example.com",
+  "course": "Machine Learning",
+  "batch": "ML89XY-T",
+  "mentor": {
+    "name": "Vikram",
+    "email": "vikram@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff4"
+  },
+  "name": "Sophia",
+  "email": "sophia@example.com",
+  "course": "MERN Stack",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "Sanjay",
+    "email": "sanjay@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff5"
+  },
+  "name": "David",
+  "email": "david@example.com",
+  "course": "Cybersecurity",
+  "batch": "CS11MN-R",
+  "mentor": {
+    "name": "Naveen",
+    "email": "naveen@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff6"
+  },
+  "name": "Jessica",
+  "email": "jessica@example.com",
+  "course": "DevOps",
+  "batch": "DO23KL-W",
+  "mentor": {
+    "name": "Priya",
+    "email": "priya@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff7"
+  },
+  "name": "Robert",
+  "email": "robert@example.com",
+  "course": "Data Analytics",
+  "batch": "DA34UV-X",
+  "mentor": {
+    "name": "Ashok",
+    "email": "ashok@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff8"
+  },
+  "name": "Linda",
+  "email": "linda@example.com",
+  "course": "Artificial Intelligence",
+  "batch": "AI45PQ-Y",
+  "mentor": {
+    "name": "Meera",
+    "email": "meera@example.com"
+  }
+},
+{
+  "_id": {
+    "$oid": "66c59468cc3334304e024ff9"
+  },
+  "name": "Chris",
+  "email": "chris@example.com",
+  "course": "MERN Stack",
+  "batch": "FSD56WE-T",
+  "mentor": {
+    "name": "Sanjay",
+    "email": "sanjay@example.com"
+  }
+}]

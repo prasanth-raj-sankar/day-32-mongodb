@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66c599cfcc3334304e025008"
+  },
+  "userId": 1,
+  "problemSolved": 13
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e025009"
+  },
+  "userId": 2,
+  "problemSolved": 8
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e02500a"
+  },
+  "userId": 3,
+  "problemSolved": 20
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e02500b"
+  },
+  "userId": 4,
+  "problemSolved": 15
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e02500c"
+  },
+  "userId": 5,
+  "problemSolved": 22
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e02500d"
+  },
+  "userId": 6,
+  "problemSolved": 7
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e02500e"
+  },
+  "userId": 7,
+  "problemSolved": 18
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e02500f"
+  },
+  "userId": 8,
+  "problemSolved": 9
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e025010"
+  },
+  "userId": 9,
+  "problemSolved": 14
+},
+{
+  "_id": {
+    "$oid": "66c599cfcc3334304e025011"
+  },
+  "userId": 10,
+  "problemSolved": 16
+}]

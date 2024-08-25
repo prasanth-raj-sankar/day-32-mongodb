@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66c59911cc3334304e024ffc"
+  },
+  "date": "2023-09-09",
+  "userEmail": "sam@example.com",
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e024ffd"
+  },
+  "date": "2023-09-10",
+  "userEmail": "sam@example.com",
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e024ffe"
+  },
+  "date": "2023-09-11",
+  "userEmail": "sam@example.com",
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e024fff"
+  },
+  "date": "2023-09-12",
+  "userEmail": "sam@example.com",
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e025000"
+  },
+  "date": "2023-09-13",
+  "userEmail": "sam@example.com",
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e025001"
+  },
+  "date": "2023-09-14",
+  "userEmail": "sam@example.com",
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e025002"
+  },
+  "date": "2023-09-15",
+  "userEmail": "sam@example.com",
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e025003"
+  },
+  "date": "2023-09-16",
+  "userEmail": "sam@example.com",
+  "isPresent": true
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e025004"
+  },
+  "date": "2023-09-17",
+  "userEmail": "sam@example.com",
+  "isPresent": false
+},
+{
+  "_id": {
+    "$oid": "66c59911cc3334304e025005"
+  },
+  "date": "2023-09-18",
+  "userEmail": "sam@example.com",
+  "isPresent": true
+}]

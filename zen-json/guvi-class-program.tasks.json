@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e02501e"
+  },
+  "taskId": 1,
+  "topicId": 1,
+  "userId": 1,
+  "task": "Responsive Web Design",
+  "dueDate": "2020-10-12",
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e02501f"
+  },
+  "taskId": 2,
+  "topicId": 2,
+  "userId": 2,
+  "task": "HTML Basics",
+  "dueDate": "2020-10-13",
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025020"
+  },
+  "taskId": 3,
+  "topicId": 3,
+  "userId": 3,
+  "task": "CSS Fundamentals",
+  "dueDate": "2020-10-14",
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025021"
+  },
+  "taskId": 4,
+  "topicId": 4,
+  "userId": 4,
+  "task": "JavaScript Basics",
+  "dueDate": "2020-10-15",
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025022"
+  },
+  "taskId": 5,
+  "topicId": 5,
+  "userId": 5,
+  "task": "Web Accessibility",
+  "dueDate": "2020-10-16",
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025023"
+  },
+  "taskId": 6,
+  "topicId": 6,
+  "userId": 6,
+  "task": "Version Control",
+  "dueDate": "2020-10-17",
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025024"
+  },
+  "taskId": 7,
+  "topicId": 7,
+  "userId": 7,
+  "task": "Git Basics",
+  "dueDate": "2020-10-18",
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025025"
+  },
+  "taskId": 8,
+  "topicId": 8,
+  "userId": 8,
+  "task": "GitHub Workflow",
+  "dueDate": "2020-10-19",
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025026"
+  },
+  "taskId": 9,
+  "topicId": 9,
+  "userId": 9,
+  "task": "JavaScript Advanced",
+  "dueDate": "2020-10-20",
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025027"
+  },
+  "taskId": 10,
+  "topicId": 10,
+  "userId": 10,
+  "task": "Web Performance Optimization",
+  "dueDate": "2020-10-21",
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025028"
+  },
+  "taskId": 11,
+  "topicId": 11,
+  "userId": 11,
+  "task": "Web",
+  "dueDate": "2020-10-31",
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "66c59f2bcc3334304e025029"
+  },
+  "taskId": 12,
+  "topicId": 12,
+  "userId": 12,
+  "task": "Website",
+  "dueDate": "2020-11-11",
+  "submitted": false
+}]
